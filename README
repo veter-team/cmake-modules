@@ -1,0 +1,2 @@
+This is a submodule of the veter repository with CMake modules we need
+to compile the whole project.
