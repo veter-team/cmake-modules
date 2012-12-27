@@ -77,9 +77,9 @@ if( ICE_HOME_INCLUDE_ICE )
         # standard Ice installation puts here
         ${ICE_HOME}/slice/Ice
         # debian package installs it here
-        /usr/share/slice/Ice
         # slackware package installs it here
         /usr/share/Ice/slice/Ice
+        /usr/share/Ice-3.4.2/slice/Ice
     )
 
     # NOTE: if ICE_SLICE_ICE is set to *-NOTFOUND it will evaluate to FALSE
